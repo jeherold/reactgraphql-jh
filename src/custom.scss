@@ -1,0 +1,10 @@
+$primary: #6f42c1;
+$light: #e9ecef;
+@import "~bootstrap/scss/bootstrap.scss";
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+
+ul {
+  .h1, .h2, .h3, .h4, .h5, .h6 {
+    color: $primary
+  }
+}
